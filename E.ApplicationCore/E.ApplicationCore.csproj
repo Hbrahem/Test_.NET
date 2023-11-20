@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Hbib\OneDrive\Desktop\Examen\E.ApplicationCore\Domain\Artiste.cs" Link="Artiste.cs" />
+    <Compile Include="C:\Users\Hbib\OneDrive\Desktop\test\test.txt" Link="test.txt" />
+  </ItemGroup>
+
+</Project>
